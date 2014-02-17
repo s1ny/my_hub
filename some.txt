@@ -1,0 +1,4 @@
+Hi I'm Roman
+I'm to learn github service.
+This is my first ptoject on the github.
+I'm work in console on linux, and learn console linux.
